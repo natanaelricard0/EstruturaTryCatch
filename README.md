@@ -1,0 +1,1 @@
+# utilizando estrutura try / catch
